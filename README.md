@@ -1,1 +1,1 @@
-# ViktorVakareev-AppiumTestAndroidAppContactBook
+# AppiumTestAndroidAppContactBook
